@@ -1,0 +1,11 @@
+<keymap version="1" name="Visual Studio (ReSharper) GitHub" parent="Visual Studio">
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Resume" />
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
