@@ -46,7 +46,13 @@ mklink /H "C:\Users\lndco\.WebStorm2018.2\config\jba_config\win.keymaps\Visual S
 
 # Key Remaps
 
- - Debug - <kbd>F5</kbd>
+<div>
+  <ul>
+    <li>Debug - <kbd>F5</kbd></li>
+  </ul>
+</div>
+
+
  - Go To Symbol - <kbd>Ctrl</kbd> + <kbd>T</kbd>
  - Surround With - <kbd>Ctrl</kbd> + <kbd>E</kbd>, <kbd>U</kbd>
  - Go Back - <kbd>Ctrl</kbd> + <kbd>-</kbd>
