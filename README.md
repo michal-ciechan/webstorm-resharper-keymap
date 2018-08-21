@@ -38,9 +38,16 @@ E.g. (one of)
  - `C:\Users\lndco\.WebStorm2018.2\config\jba_config\win.keymaps`
   - `C:\Users\lndco\.WebStorm2018.2\config\keymaps`
 
+### Making Hard Link
 
 ```
 mklink /H "C:\Users\lndco\.WebStorm2018.2\config\jba_config\win.keymaps\Visual Studio _ReSharper_GitHub.xml" "C:\Users\lndco\Documents\GitHub\webstorm-resharper-keymap\Visual Studio _ReSharper_GitHub.xml"
 ```
 
 # Key Remaps
+
+ - Debug - <kbd>F5</kbd>
+ - Go To Symbol - <kbd>Ctrl</kbd> + <kbd>T</kbd>
+ - Surround With - <kbd>Ctrl</kbd> + <kbd>E</kbd>, <kbd>U</kbd>
+ - Go Back - <kbd>Ctrl</kbd> + <kbd>-</kbd>
+ - Go Forward - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>

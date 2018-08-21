@@ -1,11 +1,45 @@
 <keymap version="1" name="Visual Studio (ReSharper) GitHub" parent="Visual Studio">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="RecentFiles" />
   <action id="Resume" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl u" />
+  </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="UML.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
